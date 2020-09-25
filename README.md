@@ -1,4 +1,4 @@
-# Bala Priya C
+# About me
 
 Hello everyone!
 
