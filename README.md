@@ -6,4 +6,4 @@ I'm Bala Priya; a Signal Processing and Machine Learning enthusiast with a keen 
 
 My favourite math tools are Linear Algebra and Probability Theory.
 
-I'm currently exploring my interests in Natural language Processing and Computer Vision.
+I'm currently exploring my interests in Natural Language Processing and Computer Vision.
