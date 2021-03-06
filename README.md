@@ -12,6 +12,6 @@ I'm currently exploring my interests in Natural Language Processing and Computer
 - **Math Tools**: Linear Algebra, Multivariable Calculus,Probability Theory,Optimization
 - **Areas of interest & proficiency**: Machine Learning,Deep Learning,Computer Vision, NLP
 - **Libraries & Frameworks**
-- **Data Wrangling & Visualization**: numpy,pandas,matplotlib,seaborn,plotly,geopandas
-- **ML & DL frameworks**: scikit-learn,PyTorch,Tensorflow,Keras
-- **NLP Libraries**: NLTK,spaCy,Gensim,HuggingFace
+   - **Data Wrangling & Visualization**: NumPy,pandas,matplotlib,Seaborn,Plotly,geopandas
+   - **ML & DL frameworks**: scikit-learn,PyTorch,Tensorflow,Keras
+   - **NLP Libraries**: NLTK,spaCy,Gensim,HuggingFace
