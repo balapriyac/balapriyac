@@ -10,7 +10,7 @@ I'm currently exploring my interests in Natural Language Processing and Computer
 
 - **Programming Languages**: C,C++,Python,MATLAB,Julia
 - **Math Tools**: Linear Algebra, Multivariable Calculus,Probability Theory,Optimization
-- **Areas of interest & proficiency**: Machine Learning,Deep Learning,Computer Vision, NLP
+- **Areas of Interest & Proficiency**: Machine Learning,Deep Learning,Computer Vision, NLP
 - **Libraries & Frameworks**
    - **Data Wrangling & Visualization**: NumPy,pandas,matplotlib,Seaborn,Plotly,geopandas
    - **ML & DL frameworks**: scikit-learn,PyTorch,Tensorflow,Keras
