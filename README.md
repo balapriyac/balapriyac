@@ -16,4 +16,4 @@ I'm currently exploring my interests in Natural Language Processing and Computer
    - **ML & DL frameworks**: scikit-learn,PyTorch,TensorFlow,Keras
    - **NLP Libraries**: NLTK,spaCy,Gensim,HuggingFace
 
-[![Bala Priya's's GitHub stats](https://github-readme-stats.vercel.app/api?username=balapriyac&count_private=true&theme=radical&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Bala Priya's's GitHub stats](https://github-readme-stats.vercel.app/api?username=balapriyac&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
