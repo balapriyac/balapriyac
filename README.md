@@ -1,4 +1,4 @@
-# About me
+# 👩🏽‍💻 About me
 
 Hello everyone!👋
 
@@ -6,7 +6,7 @@ I'm Bala Priya; a Signal Processing and Machine Learning enthusiast with a keen 
 My favourite math tools are Linear Algebra and Probability Theory.
 I'm currently exploring my interests in Natural Language Processing and Computer Vision.
 
-# Skills
+# 🌱 Skills and Interests
 
 - **Programming Languages**: C, C++, Python, MATLAB, Julia
 - **Math Tools**: Linear Algebra, Multivariable Calculus, Probability Theory, Optimization
