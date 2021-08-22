@@ -26,4 +26,4 @@ I enjoy writing, and regularly write tech tutorials on a broad range of topics i
 - [Useful Tensor Manipulation Functions in PyTorch [Tutorial]](https://dev.to/balapriyac/useful-tensor-manipulation-functions-in-pytorch-4g4c)
 - [N-gram Language Models - A Beginner's Guide](https://dev.to/balapriyac/understanding-n-gram-language-models-3g72)
 
-▶ [Read more posts here](https://dev.to/balapriyac)
+▶ Read more posts [here](https://dev.to/balapriyac)
