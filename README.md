@@ -1,7 +1,7 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Bala Priya, a Signal Processing and Machine Learning enthusiast.
-I enjoy writing and regularly write tech tutorials on a broad range of topics including Python, Machine Learning, and Natural Language Processing.
+I enjoy writing, and regularly write tech tutorials on a broad range of topics including Python, Machine Learning, and Natural Language Processing.
 
 ---- 
 # 👩🏽‍💻 Technical Skills
@@ -17,3 +17,13 @@ I enjoy writing and regularly write tech tutorials on a broad range of topics in
 
 [![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balapriyac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+-----
+
+# 📒 Blog Posts
+- [Top 6 Resources to Learn Quantum Computing for Free](https://dev.to/balapriyac/useful-resources-to-learn-quantum-computing-414k)
+- [Python Fire - How to Create CLIs from ANY Python Object](https://dev.to/balapriyac/python-fire-67i)
+- [Tokenization and Sequencing in TensorFlow [Tutorial]](https://dev.to/balapriyac/tokenization-and-sequencing-in-tensorflow-3p0n)
+- [Useful Tensor Manipulation Functions in PyTorch [Tutorial]](https://dev.to/balapriyac/useful-tensor-manipulation-functions-in-pytorch-4g4c)
+- [N-gram Language Models - A Beginner's Guide](https://dev.to/balapriyac/understanding-n-gram-language-models-3g72)
+
+▶ [Read more posts here](https://dev.to/balapriyac)
