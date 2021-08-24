@@ -1,5 +1,5 @@
 
-# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me 
 I'm Bala Priya, a Signal Processing and Machine Learning enthusiast.
 I enjoy writing, and regularly write tech tutorials on a broad range of topics including Python, Machine Learning, and Natural Language Processing.
 
