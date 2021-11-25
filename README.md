@@ -22,7 +22,7 @@ I enjoy writing, and regularly write tech tutorials on a broad range of topics i
 ### ▶ Read more posts [here](https://dev.to/balapriyac)
 
 -----
--->
+
 # &#x1f4c8; My GitHub Stats
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balapriyac&hide=c,smalltalk,jupyternotebook,java,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -30,5 +30,5 @@ I enjoy writing, and regularly write tech tutorials on a broad range of topics i
 [![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balapriyac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
-
+-->
 
