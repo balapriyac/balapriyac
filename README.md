@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me 
 ▶ I'm Bala Priya—a self-taught programmer and a technical writer from India. <br>
-✍ I share my learning with the developer community by writing beginner-friendly programming tutorials<br>
+✍ I share my learning with the developer community by writing beginner-friendly programming tutorials.<br>
 📑 I regularly write tech tutorials on a broad range of topics including Python, Machine Learning, and Natural Language Processing.
 
 ---- 
