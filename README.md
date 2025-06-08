@@ -1,7 +1,7 @@
 
 # 👋 About me 
 ▶ I'm Bala Priya, a developer and technical writer from India. <br>
-✍ I share my learning with the developer community by writing programming tutorials.<br>
+✍ I share my learning with the developer community by writing programming and data science tutorials.<br>
 📑 I regularly write tech tutorials on a broad range of topics in Python and machine learning.
 <!--
 ---- 
