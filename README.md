@@ -1,13 +1,13 @@
+## 👋 About Me
 
-# 👋 About me 
-▶ I'm Bala Priya, a developer and technical writer from India. <br>
-✍ I share my learning with the developer community by writing programming and data science tutorials.<br>
-📑 I regularly write tech tutorials on a broad range of topics in Python and machine learning.
-<!--
----- 
-# 📑Technical Skills
-## ▶ Programming | 🧰 Tools & Frameworks | ✍ Authoring Tools
-<img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Language" height= 50 width = 50><img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height= 50 width = 50><img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height= 50 width = 50> <img src=  "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" height= 50 width = 50>  <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height= 50 width = 50>  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height= 50 width = 50>  <img src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" height= 50 width = 50>   <img src= "https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" height= 50 width = 50><img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height= 50 width = 50>  <img src= "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height= 50 width = 50> <img src= "https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" height= 50 width = 50> <img src= "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" height= 50 width = 50>  
-  
+I enjoy reading, coding, and writing. Currently, I work on machine learning with a focus on interesting practical applications. My areas of interest include NLP, graphs, computer vision explainability, and robustness.
 
-<!--![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balapriyac&show_icons=true&count_private=true&theme=radical)-->
+### 📑 Focus Areas
+
+* Natural Language Processing
+* Problems on graphs & applications
+* Computer Vision with focus on image matching
+* Adversarial Examples & Robustness
+* Model Explainability in real-world use cases
+* Applied ML Systems
+
