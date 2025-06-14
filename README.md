@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I enjoy reading, coding, and writing. Currently, I work on machine learning with a focus on interesting practical applications. My areas of interest include NLP, graphs, computer vision explainability, and robustness.
+I enjoy reading, coding, and writing. Currently, I work on machine learning with a focus on interesting practical applications. My areas of interest include NLP, graphs, and explainability in computer vision.
 
 ### 📑 Focus Areas
 
