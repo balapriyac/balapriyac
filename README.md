@@ -7,7 +7,7 @@ I enjoy reading, coding, and writing. Currently, I work on machine learning with
 * Natural Language Processing
 * Problems on graphs & applications
 * Computer Vision with focus on image matching
-* Adversarial Examples & Robustness
-* Model Explainability in real-world use cases
+* Adversarial examples & robustness
+* Model explainability in real-world use cases
 * Applied ML Systems
 
