@@ -1,13 +1,27 @@
-## 👋 About Me
+# Hi there! 👋
 
-I enjoy reading, coding, and writing. Currently, I work on machine learning with a focus on interesting practical applications. My areas of interest include NLP, graphs, and explainability in computer vision.
+## About Me
+I work on machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming and machine learning.
 
-### 📑 Focus Areas
+## 🔬 Areas of Interest
+- **Natural Language Processing** - Language understanding and generation, agentic AI applications
+- **Graph Problems** - Random walks, information diffusion, network analysis
+- **Computer Vision** - Image matching, explainability, and improved feature extraction
+- **Adversarial ML** - Robustness and security of ML models
+- **Explainable AI** - Making models interpretable for real-world use cases
+- **Applied ML Systems** - Building and deploying practical ML solutions
 
-* Natural Language Processing
-* Problems on graphs & applications
-* Computer Vision with focus on image matching
-* Adversarial examples & robustness
-* Model explainability in real-world use cases
-* Applied ML Systems
+## 📈 Current Focus
+Working on graph algorithms and their applications, particularly interested in information diffusion, network flows, and random walks on graphs.
+
+## 📝 Latest Posts
+*I write about writing clean and better Python, machine learning concepts, and more*
+- [Step-by-Step Guide to Deploying Machine Learning Models with FastAPI and Docker](https://machinelearningmastery.com/step-by-step-guide-to-deploying-machine-learning-models-with-fastapi-and-docker/)
+- [The Art of Writing Readable Python Functions](https://www.kdnuggets.com/the-art-of-writing-readable-python-functions)
+- [Stop Writing Messy Python: A Clean Code Crash Course](https://www.kdnuggets.com/stop-writing-messy-python-a-clean-code-crash-course)
+- [Go vs. Python for Modern Data Workflows: Need Help Deciding?](https://www.kdnuggets.com/go-vs-python-for-modern-data-workflows-need-help-deciding)
+- [Why & How to Containerize Your Existing Python Apps](https://www.kdnuggets.com/why-how-to-containerize-your-existing-python-apps)
+
+
+
 
