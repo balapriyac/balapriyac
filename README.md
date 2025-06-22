@@ -1,9 +1,9 @@
-# Hi there! 👋
+## Hi there! 👋
 
-## About Me
+### About Me
 I work on machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming and machine learning.
 
-## 🔬 Areas of Interest
+### 🔬 Areas of Interest
 - **Natural Language Processing** - Language understanding and generation, agentic AI applications
 - **Graph Problems** - Random walks, information diffusion, network analysis
 - **Computer Vision** - Image matching, explainability, and improved feature extraction
@@ -11,10 +11,10 @@ I work on machine learning with a focus on practical applications. I enjoy readi
 - **Explainable AI** - Making models interpretable for real-world use cases
 - **Applied ML Systems** - Building and deploying practical ML solutions
 
-## 📈 Current Focus
+### 📈 Current Focus
 Working on graph algorithms and their applications, particularly interested in information diffusion, network flows, and random walks on graphs.
 
-## 📝 Latest Posts
+### 📝 Latest Posts
 *I write about writing clean and better Python, machine learning concepts, and more*
 - [Step-by-Step Guide to Deploying Machine Learning Models with FastAPI and Docker](https://machinelearningmastery.com/step-by-step-guide-to-deploying-machine-learning-models-with-fastapi-and-docker/)
 - [The Art of Writing Readable Python Functions](https://www.kdnuggets.com/the-art-of-writing-readable-python-functions)
