@@ -5,14 +5,13 @@ I work on machine learning with a focus on practical applications. I enjoy readi
 
 ### 🔬 Areas of Interest
 - **Natural Language Processing** - Language understanding and generation, agentic AI applications
-- **Graph Problems** - Random walks, information diffusion, network analysis
+- **Problems on Graphs** - Random walks, information diffusion, network analysis
 - **Computer Vision** - Image matching, explainability, and improved feature extraction
-- **Adversarial ML** - Robustness and security of ML models
 - **Explainable AI** - Making models interpretable for real-world use cases
 - **Applied ML Systems** - Building and deploying practical ML solutions
 
 ### 📈 Current Focus
-Working on graph algorithms and their applications, particularly interested in information diffusion, network flows, and random walks on graphs.
+Working on graphs, graph algorithms and their applications. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
 
 ### 📝 Latest Posts
 *I write about writing clean and better Python, machine learning concepts, and more*
