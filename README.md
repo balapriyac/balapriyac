@@ -15,6 +15,7 @@ Working on graphs, graph algorithms and their applications. I'm particularly int
 
 ### 📝 Latest Posts
 *I write about writing clean and better Python, machine learning concepts, and more*
+- [Build ETL Pipelines for Data Science Workflows in About 30 Lines of Python](https://www.kdnuggets.com/build-etl-pipelines-for-data-science-workflows-in-about-30-lines-of-python)
 - [Why Agentic AI Isn’t Pure Hype (And What Skeptics Aren’t Seeing Yet)](https://www.kdnuggets.com/why-agentic-ai-isnt-pure-hype-and-what-skeptics-arent-seeing-yet)
 - [Step-by-Step Guide to Deploying Machine Learning Models with FastAPI and Docker](https://machinelearningmastery.com/step-by-step-guide-to-deploying-machine-learning-models-with-fastapi-and-docker/)
 - [Build a Data Cleaning & Validation Pipeline in Under 50 Lines of Python](https://www.kdnuggets.com/build-a-data-cleaning-validation-pipeline-in-under-50-lines-of-python)
