@@ -24,6 +24,9 @@ Working on graphs, graph algorithms and their applications. I'm particularly int
 - [Stop Writing Messy Python: A Clean Code Crash Course](https://www.kdnuggets.com/stop-writing-messy-python-a-clean-code-crash-course)
 - [Go vs. Python for Modern Data Workflows: Need Help Deciding?](https://www.kdnuggets.com/go-vs-python-for-modern-data-workflows-need-help-deciding)
 - [Why & How to Containerize Your Existing Python Apps](https://www.kdnuggets.com/why-how-to-containerize-your-existing-python-apps)
+- [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
+
+▶️ Read more [Python](https://github.com/balapriyac/python-basics) and [Data Science](https://github.com/balapriyac/data-science-tutorials) articles
 
 
 
