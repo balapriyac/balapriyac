@@ -15,6 +15,7 @@ Working on graphs, graph algorithms and their applications. I'm particularly int
 
 ### 📝 Latest Posts
 *I write about writing clean and better Python, machine learning concepts, and more*
+- [Shortcuts for the Long Run: Automated Workflows for Aspiring Data Engineers](https://www.kdnuggets.com/shortcuts-for-the-long-run-automated-workflows-for-aspiring-data-engineers)
 - [The Case for Makefiles in Python Projects (And How to Get Started)](https://www.kdnuggets.com/the-case-for-makefiles-in-python-projects-and-how-to-get-started)
 - [Build ETL Pipelines for Data Science Workflows in About 30 Lines of Python](https://www.kdnuggets.com/build-etl-pipelines-for-data-science-workflows-in-about-30-lines-of-python)
 - [Why Agentic AI Isn’t Pure Hype (And What Skeptics Aren’t Seeing Yet)](https://www.kdnuggets.com/why-agentic-ai-isnt-pure-hype-and-what-skeptics-arent-seeing-yet)
