@@ -27,7 +27,8 @@ Working on graphs, graph algorithms and their applications. I'm particularly int
 - [Why & How to Containerize Your Existing Python Apps](https://www.kdnuggets.com/why-how-to-containerize-your-existing-python-apps)
 - [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
 
-▶️ Read more [Python](https://github.com/balapriyac/python-basics/blob/main/README.md){:target="_blank"} and [Data Science](https://github.com/balapriyac/data-science-tutorials/blob/main/README.md){:target="_blank"} articles
+▶️ Read more <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a> and <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" targe_
+
 
 
 
