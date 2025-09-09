@@ -11,7 +11,7 @@ I work on machine learning with a focus on practical applications. I enjoy readi
 - **Applied ML Systems** - Building and deploying practical ML solutions
 
 ### 📈 Current Focus
-Working on graphs, graph algorithms and their applications. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
+Working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
 
 ### 📝 Latest Posts
 *I write about writing clean and better Python, machine learning concepts, and more*
