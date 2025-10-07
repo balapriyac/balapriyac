@@ -26,6 +26,7 @@ Working on graphs and some interesting applications of random processes on graph
 - [Go vs. Python for Modern Data Workflows: Need Help Deciding?](https://www.kdnuggets.com/go-vs-python-for-modern-data-workflows-need-help-deciding)
 - [Why & How to Containerize Your Existing Python Apps](https://www.kdnuggets.com/why-how-to-containerize-your-existing-python-apps)
 - [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
+- [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers)
 
 ▶️ Read more <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a> and <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a> articles.
 
