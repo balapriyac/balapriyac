@@ -14,7 +14,7 @@ I work on machine learning with a focus on practical applications. I enjoy readi
 Working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
 
 ### 📝 Latest Posts
-*I write about writing clean and better Python, machine learning concepts, and more*
+*I write about writing clean and better Python, machine learning, data science, and more*
 - [Shortcuts for the Long Run: Automated Workflows for Aspiring Data Engineers](https://www.kdnuggets.com/shortcuts-for-the-long-run-automated-workflows-for-aspiring-data-engineers)
 - [The Case for Makefiles in Python Projects (And How to Get Started)](https://www.kdnuggets.com/the-case-for-makefiles-in-python-projects-and-how-to-get-started)
 - [Build ETL Pipelines for Data Science Workflows in About 30 Lines of Python](https://www.kdnuggets.com/build-etl-pipelines-for-data-science-workflows-in-about-30-lines-of-python)
@@ -28,6 +28,6 @@ Working on graphs and some interesting applications of random processes on graph
 - [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
 - [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers)
 
-▶️ Read more <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a> and <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a> articles.
+▶️ Read more of my <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a> and <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a> articles.
 
 
