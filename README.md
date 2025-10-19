@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 ### About Me
-I work on machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming and machine learning.
+I work on machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming, data science, and machine learning.
 
 ### 🔬 Areas of Interest
 - **Natural Language Processing** - Language understanding and generation, agentic AI applications
@@ -29,6 +29,6 @@ Working on graphs and some interesting applications of random processes on graph
 - [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
 - [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers)
 
-▶️ Read more of my <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a> and <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a> articles.
+▶️ You can also read more of my many <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a> and <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a> articles.
 
 
