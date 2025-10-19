@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 ### About Me
-I work on machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming, data science, and machine learning.
+I'm Bala Priya, a developer, tech writer, and educator based in India. I work on machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming, data science, and machine learning.
 
 ### 🔬 Areas of Interest
 - **Natural Language Processing** - Language understanding and generation, agentic AI applications
