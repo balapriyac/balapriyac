@@ -5,7 +5,7 @@
     <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balapriyac&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balapriyac&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
 </p> -->
 ### About Me
-I'm Bala Priya, a developer, tech writer, and educator based in India. I work on data science and machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming, data science, and machine learning.
+I'm Bala Priya, a developer, tech writer, and educator based in India. I work on data science and machine learning with a focus on practical applications. I also enjoy reading, coding, and writing about programming and data science.
 
 ### 🔬 Areas of Interest
 - **Natural Language Processing** - Language understanding and generation, agentic AI applications
