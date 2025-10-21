@@ -5,7 +5,7 @@
     <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balapriyac&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balapriyac&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
 </p> -->
 ### About Me
-I'm Bala Priya, a developer, tech writer, and educator based in India. I work on machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming, data science, and machine learning.
+I'm Bala Priya, a developer, tech writer, and educator based in India. I work on data science and machine learning with a focus on practical applications. I enjoy reading, coding, and writing about programming, data science, and machine learning.
 
 ### 🔬 Areas of Interest
 - **Natural Language Processing** - Language understanding and generation, agentic AI applications
@@ -33,6 +33,6 @@ Working on graphs and some interesting applications of random processes on graph
 - [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
 - [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers)
 
-▶️ You can also read more of my many <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a> and <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a> articles.
+▶️ You can also read more of my <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a> and <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a> articles.
 
 
