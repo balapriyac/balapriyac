@@ -8,7 +8,7 @@
 I'm Bala Priya, a developer, tech writer, and educator based in India. I work on data science and machine learning with a focus on practical applications. I also enjoy reading, coding, and writing about programming and data science.
 
 ### 🔬 Areas of Interest
-- **Natural Language Processing** - Language understanding and generation, agentic AI applications
+- **Building with LLMs** - RAG pipelines, agentic AI, and intelligent automation
 - **Problems on Graphs** - Random walks, information diffusion, network analysis
 - **Computer Vision** - Image matching, explainability, and improved feature extraction
 - **Explainable AI** - Making models interpretable for real-world use cases
@@ -17,7 +17,7 @@ I'm Bala Priya, a developer, tech writer, and educator based in India. I work on
 ### 📈 Current Focus
 Working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
 
-### 📝 Latest Posts
+### 📝 Latest Articles
 *I write about writing clean and better Python, machine learning, data science, and more*
 - [The Complete Guide to Vector Databases for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-vector-databases-for-machine-learning/)
 - [7 Must-Know Agentic AI Design Patterns](https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/)
