@@ -21,6 +21,7 @@ Working on graphs and some interesting applications of random processes on graph
 *I write about writing clean and better Python, machine learning, data science, and more*
 - [The Complete Guide to Vector Databases for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-vector-databases-for-machine-learning/)
 - [Essential Chunking Techniques for Building Better LLM Applications](https://machinelearningmastery.com/essential-chunking-techniques-for-building-better-llm-applications/)
+- [The Complete Guide to Building Data Pipelines That Don’t Break](https://www.kdnuggets.com/the-complete-guide-to-building-data-pipelines-that-dont-break)
 - [7 Must-Know Agentic AI Design Patterns](https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/)
 - [The Complete Guide to Model Context Protocol](https://machinelearningmastery.com/the-complete-guide-to-model-context-protocol/)
 - [Shortcuts for the Long Run: Automated Workflows for Aspiring Data Engineers](https://www.kdnuggets.com/shortcuts-for-the-long-run-automated-workflows-for-aspiring-data-engineers)
