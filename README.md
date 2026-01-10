@@ -4,7 +4,6 @@
 <!-- <p align="left">
     <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balapriyac&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balapriyac&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
 </p> -->
-### About Me
 I'm Bala Priya, a developer, tech writer, and educator based in India. I work on data science and machine learning with a focus on practical applications. I also enjoy reading, coding, and writing about programming and data science.
 
 ### 🔬 Areas of Interest
@@ -17,7 +16,7 @@ I'm Bala Priya, a developer, tech writer, and educator based in India. I work on
 ### 📈 Current Focus
 Working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
 
-### 📝 Some of My Recent Articles
+### Some of My Recent Articles
 *I write about writing clean and better Python, machine learning, data science, and more*
 - [Building a Simple Data Quality DSL in Python](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)
 - [Context Engineering Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty)
