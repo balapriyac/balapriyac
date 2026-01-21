@@ -4,7 +4,7 @@
 <!-- <p align="left">
     <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balapriyac&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balapriyac&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
 </p> -->
-I'm Bala Priya, a developer, tech writer, and educator based in India. I work on data science and machine learning with a focus on practical applications. I also enjoy reading, coding, and writing about programming and data science.
+I'm Bala Priya, a developer, tech writer, and educator based in India. I work on data science, machine learning, and AI with a focus on practical applications. I also enjoy reading, coding, and writing about programming and data science.
 
 ### Areas of Interest
 - **Building with LLMs** - RAG pipelines, agentic AI, and intelligent automation
@@ -18,6 +18,7 @@ Working on graphs and some interesting applications of random processes on graph
 
 ### Some of My Recent Articles
 *I write about writing clean and better Python, machine learning, data science, and more*
+- [AI Writes Python Code, But Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job)
 - [Building a Simple Data Quality DSL in Python](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)
 - [Context Engineering Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty)
 - [Essential Chunking Techniques for Building Better LLM Applications](https://machinelearningmastery.com/essential-chunking-techniques-for-building-better-llm-applications/)
@@ -33,8 +34,6 @@ Working on graphs and some interesting applications of random processes on graph
 - [Build a Data Cleaning & Validation Pipeline in Under 50 Lines of Python](https://www.kdnuggets.com/build-a-data-cleaning-validation-pipeline-in-under-50-lines-of-python)
 - [The Art of Writing Readable Python Functions](https://www.kdnuggets.com/the-art-of-writing-readable-python-functions)
 - [Stop Writing Messy Python: A Clean Code Crash Course](https://www.kdnuggets.com/stop-writing-messy-python-a-clean-code-crash-course)
-- [Go vs. Python for Modern Data Workflows: Need Help Deciding?](https://www.kdnuggets.com/go-vs-python-for-modern-data-workflows-need-help-deciding)
-- [Why & How to Containerize Your Existing Python Apps](https://www.kdnuggets.com/why-how-to-containerize-your-existing-python-apps)
 - [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
 - [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers)
 
