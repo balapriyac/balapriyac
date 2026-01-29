@@ -13,7 +13,7 @@ I'm Bala Priya, a developer, tech writer, and educator based in India. I work on
 Working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
 
 ### Some of My Recent Articles
-*I write about writing clean and better Python, machine learning, data science, and more*
+*I write about writing clean and better Python, machine learning, data science, AI, and more*
 - [AI Writes Python Code, But Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job)
 - [Building a Simple Data Quality DSL in Python](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)
 - [Context Engineering Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty)
