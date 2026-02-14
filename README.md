@@ -14,6 +14,7 @@ Working on graphs and some interesting applications of random processes on graph
 
 ### Some of My Recent Articles
 *I write about writing clean and better Python, machine learning, data science, AI, and more*
+- [The Machine Learning Practitioner’s Guide to Speculative Decoding](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/)
 - [AI Writes Python Code, But Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job)
 - [Building a Simple Data Quality DSL in Python](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)
 - [Context Engineering Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty)
@@ -31,6 +32,6 @@ Working on graphs and some interesting applications of random processes on graph
 - [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
 - [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers)
 
-▶️ You can also read more of my <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a>, <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a>, and <a href="https://machinelearningmastery.com/author/bala-priya-c/" target="_blank">Machine Learning</a> articles.
+▶️ You can also read more of my articles on <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a>, <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a>, and <a href="https://machinelearningmastery.com/author/bala-priya-c/" target="_blank">Machine Learning, AI, and more</a>.
 
 
