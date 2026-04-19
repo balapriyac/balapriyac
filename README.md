@@ -15,9 +15,10 @@ Working on graphs and some interesting applications of random processes on graph
 ### Some of My Recent Articles
 *I write about writing clean and better Python, machine learning, data science, AI, and more*
 
+- [The Complete Guide to Inference Caching in LLMs](https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/)
+- [The Roadmap to Mastering Agentic AI Design Patterns](https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/)
 - [Vector Databases Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/)
-- [KV Caching in LLMs: A Guide for Developers](
-https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/)
+- [KV Caching in LLMs: A Guide for Developers](https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/)
 - [The Machine Learning Practitioner’s Guide to Speculative Decoding](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/)
 - [AI Writes Python Code, But Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job)
 - [Building a Simple Data Quality DSL in Python](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)
@@ -32,9 +33,6 @@ https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/)
 - [Step-by-Step Guide to Deploying Machine Learning Models with FastAPI and Docker](https://machinelearningmastery.com/step-by-step-guide-to-deploying-machine-learning-models-with-fastapi-and-docker/)
 - [Build a Data Cleaning & Validation Pipeline in Under 50 Lines of Python](https://www.kdnuggets.com/build-a-data-cleaning-validation-pipeline-in-under-50-lines-of-python)
 - [The Art of Writing Readable Python Functions](https://www.kdnuggets.com/the-art-of-writing-readable-python-functions)
-- [Stop Writing Messy Python: A Clean Code Crash Course](https://www.kdnuggets.com/stop-writing-messy-python-a-clean-code-crash-course)
-- [A Gentle Introduction to Go for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
-- [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers)
 
 ▶️ You can also read more of my articles on <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a>, <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">Data Science</a>, and <a href="https://machinelearningmastery.com/author/bala-priya-c/" target="_blank">Machine Learning, AI, and more</a>.
 
