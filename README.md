@@ -26,7 +26,6 @@ Working on graphs and some interesting applications of random processes on graph
 - [Essential Chunking Techniques for Building Better LLM Applications](https://machinelearningmastery.com/essential-chunking-techniques-for-building-better-llm-applications/)
 - [The Complete Guide to Vector Databases for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-vector-databases-for-machine-learning/)
 - [The Complete Guide to Building Data Pipelines That Don’t Break](https://www.kdnuggets.com/the-complete-guide-to-building-data-pipelines-that-dont-break)
-- [7 Must-Know Agentic AI Design Patterns](https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/)
 - [The Complete Guide to Model Context Protocol](https://machinelearningmastery.com/the-complete-guide-to-model-context-protocol/)
 - [The Case for Makefiles in Python Projects (And How to Get Started)](https://www.kdnuggets.com/the-case-for-makefiles-in-python-projects-and-how-to-get-started)
 - [Build ETL Pipelines for Data Science Workflows in About 30 Lines of Python](https://www.kdnuggets.com/build-etl-pipelines-for-data-science-workflows-in-about-30-lines-of-python)
