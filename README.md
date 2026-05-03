@@ -33,6 +33,6 @@ Working on graphs and some interesting applications of random processes on graph
 - [Build a Data Cleaning & Validation Pipeline in Under 50 Lines of Python](https://www.kdnuggets.com/build-a-data-cleaning-validation-pipeline-in-under-50-lines-of-python)
 - [The Art of Writing Readable Python Functions](https://www.kdnuggets.com/the-art-of-writing-readable-python-functions)
 
-▶️ You can also read more of my articles on <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a>, <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">data s</a>, and <a href="https://machinelearningmastery.com/author/bala-priya-c/" target="_blank">machine learning, agentic AI, and more</a>.
+▶️ You can also read more of my articles on <a href="https://github.com/balapriyac/python-basics/blob/main/README.md" target="_blank">Python</a>, <a href="https://github.com/balapriyac/data-science-tutorials/blob/main/README.md" target="_blank">data science</a>, and <a href="https://machinelearningmastery.com/author/bala-priya-c/" target="_blank">machine learning, agentic AI, and more</a>.
 
 
