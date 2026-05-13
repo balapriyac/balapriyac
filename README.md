@@ -1,6 +1,6 @@
 ## Hi there! 👋
+I’m Bala Priya, a developer, tech writer, and educator based in India. I work at the intersection of data science, machine learning, and AI, with a focus on building practical applications. Beyond coding and teaching, I enjoy reading and writing about programming, data science, and AI.
 
-I'm Bala Priya, a developer, tech writer, and educator based in India. I work on data science, machine learning, and AI with a focus on practical applications. I also enjoy reading, coding, and writing about programming, data science, and AI.
 
 ### Areas of Interest
 - **Building with LLMs** - RAG pipelines, agentic AI, and intelligent automation
