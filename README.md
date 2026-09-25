@@ -1,15 +1,12 @@
 ## Hi there! 👋
-I’m Bala Priya, a developer, tech writer, and educator based in India. I work on projects across data science, machine learning, and AI. Beyond coding and teaching, I am an avid reader of fantasy, classic literature, and speculative fiction. I also enjoy writing about programming, data science, and AI.
+I’m Bala Priya, a developer, educator, and technical writer based in India. I write about programming, data science, machine learning, and AI, with a focus on making complex technical ideas practical and approachable.
 
-### Areas of Interest
-- **Building with LLMs** - RAG pipelines, agentic AI, and intelligent automation
-- **Problems on Graphs** - Random walks, information diffusion, network analysis
-- **Computer Vision** - Image matching, explainability, and improved feature extraction
-- **Explainable AI** - Making models interpretable for real-world use cases
-- **Applied ML Systems** - Building and deploying practical ML solutions
+I’ve been writing for over five years, creating tutorials, how-to guides, and deep dives that help developers build, solve problems, and understand complex technical concepts. My technical interests include LLM applications, agentic AI, graph algorithms, computer vision, explainable AI, and ML systems.
+
+When I’m not writing or coding, I’m usually reading classic literature, epic fantasy, or speculative fiction... with a cup of coffee close by. I also enjoy talking about books, learning new things, and sharing what I learn with the developer community.
 
 ### Current Focus
-Working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
+Learning and working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
 
 ### Some of My Recent Articles
 *I write about writing clean and better Python, machine learning, data science, AI, and more*
