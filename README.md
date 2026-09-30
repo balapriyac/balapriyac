@@ -1,7 +1,7 @@
 ## Hi there! 👋
 I’m Bala Priya, a developer, educator, and technical writer based in India. I write about programming, data science, machine learning, and AI, with a focus on making complex technical ideas practical and approachable.
 
-I’ve been writing for over five years, creating tutorials, how-to guides, and deep dives that help developers build, solve problems, and understand complex technical concepts. My technical interests include LLM applications, agentic AI, graph algorithms, computer vision, explainable AI, and ML systems.
+I’ve been writing for over five years now, creating tutorials, how-to guides, and deep dives that help developers build, solve problems, and understand complex technical concepts. My technical interests include LLM applications, agentic AI, graph algorithms, computer vision, explainable AI, and ML systems.
 
 When I’m not writing or coding, I’m usually reading classic literature, epic fantasy, or speculative fiction... with a cup of coffee close by. I also enjoy talking about books, learning new things, and sharing what I learn with the developer community.
 
