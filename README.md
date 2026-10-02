@@ -9,7 +9,7 @@ When I’m not writing or coding, I’m usually reading classic literature, epic
 Learning and working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
 
 ### Some of My Recent Articles
-*I write about writing clean and better Python, machine learning, data science, AI, and more*
+I write about Python, machine learning, data science, AI, and practical techniques for building better, more reliable systems. Here are some of my recent articles:
 
 - [Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/)
 - [The Complete Guide to Inference Caching in LLMs](https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/)
@@ -17,13 +17,12 @@ Learning and working on graphs and some interesting applications of random proce
 - [Building Context-Aware Search in Python with LLM Embeddings + Metadata](https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/)
 - [The Roadmap to Mastering Agentic AI Design Patterns](https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/)
 - [Vector Databases Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/)
+- [The Complete Guide to Vector Databases for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-vector-databases-for-machine-learning/)
 - [KV Caching in LLMs: A Guide for Developers](https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/)
 - [AI Writes Python Code, But Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job)
 - [Building a Simple Data Quality DSL in Python](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)
 - [Essential Chunking Techniques for Building Better LLM Applications](https://machinelearningmastery.com/essential-chunking-techniques-for-building-better-llm-applications/)
-- [The Complete Guide to Vector Databases for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-vector-databases-for-machine-learning/)
 - [The Complete Guide to Building Data Pipelines That Don’t Break](https://www.kdnuggets.com/the-complete-guide-to-building-data-pipelines-that-dont-break)
-- [The Complete Guide to Model Context Protocol](https://machinelearningmastery.com/the-complete-guide-to-model-context-protocol/)
 - [The Case for Makefiles in Python Projects (And How to Get Started)](https://www.kdnuggets.com/the-case-for-makefiles-in-python-projects-and-how-to-get-started)
 - [Step-by-Step Guide to Deploying Machine Learning Models with FastAPI and Docker](https://machinelearningmastery.com/step-by-step-guide-to-deploying-machine-learning-models-with-fastapi-and-docker/)
 - [Build a Data Cleaning & Validation Pipeline in Under 50 Lines of Python](https://www.kdnuggets.com/build-a-data-cleaning-validation-pipeline-in-under-50-lines-of-python)
