@@ -3,7 +3,7 @@ I’m Bala Priya, a developer, educator, and technical writer based in India. I 
 
 I’ve been writing for over five years now, creating tutorials, how-to guides, and deep dives that help developers build, solve problems, and understand complex technical concepts. My technical interests include LLM applications, agentic AI, graph algorithms, computer vision, explainable AI, and ML systems.
 
-When I’m not writing or coding, I’m usually reading classic literature, epic fantasy, or speculative fiction... with a cup of coffee close by. I also enjoy talking about books, learning new things, and sharing what I learn with the developer community.
+When I’m not writing or coding, I’m usually reading classic literature, epic fantasy, or speculative fiction. I also enjoy talking about books, learning new things, and sharing what I learn with the developer community.
 
 ### Current Focus
 Learning and working on graphs and some interesting applications of random processes on graphs. I'm particularly interested in information diffusion, network flows, and random walks on graphs.
